@@ -1,0 +1,18 @@
+<상수멤버의 초기화>
+
+public:
+	Car() : MAX_SPEED(300) //초기화
+
+
+"콜론 초기화"
+
+
+<복사 생성자의 특징>
+
+Car(Car& obj); //& 레퍼런스 꼭 붙여줘야함
+Car(const Car& obj);
+
+
+
+복사생성자.cpp
+: 포인터가 하나라도 있으면 run time error 발생
