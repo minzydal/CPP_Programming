@@ -1,0 +1,18 @@
+객체지향 key point 4개
+
+- encapsulation 캡슐화
+- information-hiding 정보은닉
+- ingeritance 상속
+- polymorphism 다형성
+
+<정보은닉>
+
+private:
+멤버 변수(field) int num;
+-> private으로 되어있으니까 함부로 못바꿈
+
+public:
+멤버 함수(method) car.num(x);
+
+자바에서 코드 재사용이 쉬운 이유는 관련된 데이터와 함수가 하나의 덩어리로묶여있기 때문이다
+정보은닉이란 데이터를 외부로부터 보호하는것.

@@ -1,0 +1,4 @@
+﻿  361p 9.cpp
+f:\programming\power c++\4.11 c++\4.11 c++\361p 9.cpp(12): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+f:\programming\power c++\4.11 c++\4.11 c++\361p 9.cpp(20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  4.11 c++.vcxproj -> F:\Programming\Power C++\4.11 c++\Debug\4.11 c++.exe
